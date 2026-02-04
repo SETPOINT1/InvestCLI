@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (ห้ามเอาขึ้นตามโจทย์อาจารย์)
+venv/
+env/
+.venv/
+
+# Environment Variables (ห้ามเอา Key ขึ้น)
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+watchlist.json
